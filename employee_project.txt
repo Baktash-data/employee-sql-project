@@ -1,7 +1,7 @@
 -- ========================================
 -- EMPLOYEE SQL PROJECT
 -- ========================================
--- Author: [Your Name]
+-- Author: Baktash Hamidi
 -- Description: This project creates and analyzes employee and department data using SQL.
 -- ========================================
 
